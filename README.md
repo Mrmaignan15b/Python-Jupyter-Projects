@@ -1,1 +1,1 @@
-# Pyhton-Jupyter-Projects
+# Python-Jupyter-Projects
